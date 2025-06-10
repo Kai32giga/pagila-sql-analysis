@@ -86,6 +86,21 @@ WHERE f.film_id NOT IN (
 - Use Python + SQL (Jupyter Notebook) for report generation
 
 ---
+## 📦 CSV Outputs
+
+Download SQL result files here:
+
+- [Top 10 Rented Movies](exports/top_10_rented_movies.csv)
+- [Top 5 Customers by Revenue](exports/top_5_customers.csv)
+- [Monthly Revenue Trend](exports/monthly_revenue.csv)
+- [Store-wise Rentals](exports/rentals_by_store.csv)
+- [Popular Categories](exports/popular_categories.csv)
+- [Average Rental Duration](exports/avg_rental_duration.csv)
+- [Inactive Customers (6+ Months)](exports/inactive_customers.csv)
+- [Movies Never Rented](exports/never_rented_movies.csv)
+- [Top Cities by Rentals](exports/top_cities_by_rentals.csv)
+- [Inventory by Store](exports/inventory_by_store.csv)
+
 
 ## 📬 Contact
 
